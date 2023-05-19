@@ -1,4 +1,4 @@
-### Hi there I am Ivo 👋
+### Hi there I am Ivo Borisov 👋
 
 <!--
 **iborissov/iborissov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
